@@ -1,2 +1,2 @@
 # Aula-Git-e-GitHub
-Repositório para aula de Git
+Repositório para aula de Git. Primeira aula fazendo uma modificação.
