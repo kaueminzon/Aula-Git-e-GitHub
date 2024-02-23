@@ -8,12 +8,12 @@ package com.projetopoo.projetopoo;
  *
  * @author Admin
  */
-public class livraria {
+public class livraria { /*classe*/
     public String livro;
     public String valor;
-    public static String local = "Biblioteca Zona Leste";
+    public static String local = "Biblioteca Zona Leste"; /*atributo estático*/
     
-    public livraria(String nom) {
+    public livraria(String nom) { /*construtor*/ 
         this.livro = nom;
     }
 }
